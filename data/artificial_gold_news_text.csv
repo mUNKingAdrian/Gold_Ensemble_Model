@@ -1,0 +1,461 @@
+date,headline,expected_sentiment
+2000-01-09,Gold retreats as risk appetite improves across markets,bearish
+2000-01-11,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2000-01-12,Gold prices climb as traders expect lower interest rates,bullish
+2000-02-10,Gold market shows limited movement as volume remains moderate,neutral
+2000-02-11,Gold holds near recent levels during quiet market session,neutral
+2000-03-10,Gold falls as stronger dollar pressures precious metals,bearish
+2000-03-11,Gold gains after weaker dollar supports precious metals,bullish
+2000-04-10,Gold slips as investors reduce safe-haven positions,bearish
+2000-04-12,Gold retreats as risk appetite improves across markets,bearish
+2000-05-09,Gold rises as investors seek safety amid market uncertainty,bullish
+2000-05-10,Gold prices climb as traders expect lower interest rates,bullish
+2000-05-12,Gold remains steady ahead of inflation data release,neutral
+2000-06-09,Gold holds near recent levels during quiet market session,neutral
+2000-06-10,Precious metals are mixed as traders assess economic signals,neutral
+2000-06-11,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2000-06-12,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2000-07-09,Gold slips as investors reduce safe-haven positions,bearish
+2000-07-11,Gold rises as investors seek safety amid market uncertainty,bullish
+2000-07-12,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2000-08-09,Precious metals are mixed as traders assess economic signals,neutral
+2000-08-11,Gold gains after weaker dollar supports precious metals,bullish
+2000-08-12,Gold retreats as risk appetite improves across markets,bearish
+2000-08-30,Gold gains after weaker dollar supports precious metals,bullish
+2000-08-31,Bullish momentum builds in gold as inflation concerns increase,bullish
+2000-09-10,Analysts warn gold may decline if interest rates remain elevated,bearish
+2000-09-11,Precious metals are mixed as traders assess economic signals,neutral
+2000-09-13,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2000-09-14,Gold remains steady ahead of inflation data release,neutral
+2000-09-15,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2000-09-18,Gold gains after weaker dollar supports precious metals,bullish
+2000-09-19,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2000-09-20,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2000-09-21,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2000-09-22,Gold holds near recent levels during quiet market session,neutral
+2000-09-25,Gold retreats as risk appetite improves across markets,bearish
+2000-09-26,Gold falls as stronger dollar pressures precious metals,bearish
+2000-09-27,Gold rises as investors seek safety amid market uncertainty,bullish
+2000-09-28,Gold retreats as risk appetite improves across markets,bearish
+2000-09-29,Gold falls as stronger dollar pressures precious metals,bearish
+2000-10-10,Gold retreats as risk appetite improves across markets,bearish
+2000-10-11,Gold falls as stronger dollar pressures precious metals,bearish
+2000-10-13,Gold prices climb as traders expect lower interest rates,bullish
+2000-10-16,Gold falls as stronger dollar pressures precious metals,bearish
+2000-10-17,Gold gains after weaker dollar supports precious metals,bullish
+2000-10-18,Precious metals are mixed as traders assess economic signals,neutral
+2000-10-19,Gold gains after weaker dollar supports precious metals,bullish
+2000-10-20,Gold strengthens as bond yields decline and investors move into metals,bullish
+2000-10-23,Gold falls as stronger dollar pressures precious metals,bearish
+2000-10-24,Gold holds near recent levels during quiet market session,neutral
+2000-10-25,Gold slips as investors reduce safe-haven positions,bearish
+2000-10-26,Gold remains steady ahead of inflation data release,neutral
+2000-10-27,Gold gains after weaker dollar supports precious metals,bullish
+2000-10-30,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2000-10-31,Gold retreats as risk appetite improves across markets,bearish
+2000-11-09,Gold falls as stronger dollar pressures precious metals,bearish
+2000-11-10,Bullish momentum builds in gold as inflation concerns increase,bullish
+2000-11-12,Gold retreats as risk appetite improves across markets,bearish
+2000-11-13,Gold gains after weaker dollar supports precious metals,bullish
+2000-11-14,Bearish outlook for gold grows after strong economic data,bearish
+2000-11-15,Bullish momentum builds in gold as inflation concerns increase,bullish
+2000-11-16,Bullish momentum builds in gold as inflation concerns increase,bullish
+2000-11-17,Gold market shows limited movement as volume remains moderate,neutral
+2000-11-20,Gold slips as investors reduce safe-haven positions,bearish
+2000-11-21,Gold remains steady ahead of inflation data release,neutral
+2000-11-22,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2000-11-27,Gold retreats as risk appetite improves across markets,bearish
+2000-11-28,Gold gains after weaker dollar supports precious metals,bullish
+2000-11-29,Analysts warn gold may decline if interest rates remain elevated,bearish
+2000-11-30,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2000-12-09,Bearish outlook for gold grows after strong economic data,bearish
+2000-12-10,Bullish momentum builds in gold as inflation concerns increase,bullish
+2000-12-12,Precious metals are mixed as traders assess economic signals,neutral
+2000-12-13,Gold retreats as risk appetite improves across markets,bearish
+2000-12-14,Gold falls as stronger dollar pressures precious metals,bearish
+2000-12-15,Higher Treasury yields weigh on gold prices,bearish
+2000-12-18,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2000-12-19,Bullish momentum builds in gold as inflation concerns increase,bullish
+2000-12-20,Bullish momentum builds in gold as inflation concerns increase,bullish
+2000-12-21,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2000-12-22,Gold retreats as risk appetite improves across markets,bearish
+2000-12-26,Gold remains steady ahead of inflation data release,neutral
+2000-12-27,Gold prices climb as traders expect lower interest rates,bullish
+2000-12-28,Bearish outlook for gold grows after strong economic data,bearish
+2000-12-29,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-01-02,Gold slips as investors reduce safe-haven positions,bearish
+2001-01-03,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-01-05,Gold retreats as risk appetite improves across markets,bearish
+2001-01-06,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-01-08,Higher Treasury yields weigh on gold prices,bearish
+2001-01-10,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-01-11,Bearish outlook for gold grows after strong economic data,bearish
+2001-01-16,Bullish momentum builds in gold as inflation concerns increase,bullish
+2001-01-17,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-01-18,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-01-19,Bearish outlook for gold grows after strong economic data,bearish
+2001-01-22,Gold falls as stronger dollar pressures precious metals,bearish
+2001-01-23,Gold gains after weaker dollar supports precious metals,bullish
+2001-01-24,Gold market shows limited movement as volume remains moderate,neutral
+2001-01-25,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-01-26,Gold market shows limited movement as volume remains moderate,neutral
+2001-01-29,Gold gains after weaker dollar supports precious metals,bullish
+2001-01-30,Higher Treasury yields weigh on gold prices,bearish
+2001-01-31,Precious metals are mixed as traders assess economic signals,neutral
+2001-02-01,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-02-02,Gold holds near recent levels during quiet market session,neutral
+2001-02-03,Analysts warn gold may decline if interest rates remain elevated,bearish
+2001-02-04,Gold remains steady ahead of inflation data release,neutral
+2001-02-05,Gold prices climb as traders expect lower interest rates,bullish
+2001-02-07,Analysts warn gold may decline if interest rates remain elevated,bearish
+2001-02-08,Gold market shows limited movement as volume remains moderate,neutral
+2001-02-10,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2001-02-11,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-02-13,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-02-14,Gold retreats as risk appetite improves across markets,bearish
+2001-02-15,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-02-16,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-02-20,Gold remains steady ahead of inflation data release,neutral
+2001-02-21,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-02-22,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-02-23,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-02-26,Gold retreats as risk appetite improves across markets,bearish
+2001-02-27,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-02-28,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-03-01,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2001-03-04,Gold slips as investors reduce safe-haven positions,bearish
+2001-03-05,Gold gains after weaker dollar supports precious metals,bullish
+2001-03-07,Gold gains after weaker dollar supports precious metals,bullish
+2001-03-08,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-03-10,Analysts warn gold may decline if interest rates remain elevated,bearish
+2001-03-12,Gold slips as investors reduce safe-haven positions,bearish
+2001-03-13,Gold remains steady ahead of inflation data release,neutral
+2001-03-14,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-03-15,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-03-16,Gold prices climb as traders expect lower interest rates,bullish
+2001-03-19,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-03-20,Bearish outlook for gold grows after strong economic data,bearish
+2001-03-21,Bearish outlook for gold grows after strong economic data,bearish
+2001-03-22,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-03-23,Precious metals are mixed as traders assess economic signals,neutral
+2001-03-26,Gold falls as stronger dollar pressures precious metals,bearish
+2001-03-27,Gold prices climb as traders expect lower interest rates,bullish
+2001-03-28,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-03-29,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-03-30,Gold holds near recent levels during quiet market session,neutral
+2001-04-01,Precious metals are mixed as traders assess economic signals,neutral
+2001-04-04,Precious metals are mixed as traders assess economic signals,neutral
+2001-04-05,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-04-06,Gold remains steady ahead of inflation data release,neutral
+2001-04-09,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-04-10,Gold retreats as risk appetite improves across markets,bearish
+2001-04-12,Gold holds near recent levels during quiet market session,neutral
+2001-04-16,Bearish outlook for gold grows after strong economic data,bearish
+2001-04-17,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-04-18,Gold slips as investors reduce safe-haven positions,bearish
+2001-04-19,Gold remains steady ahead of inflation data release,neutral
+2001-04-20,Bullish momentum builds in gold as inflation concerns increase,bullish
+2001-04-23,Gold remains steady ahead of inflation data release,neutral
+2001-04-24,Gold market shows limited movement as volume remains moderate,neutral
+2001-04-25,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-04-26,Gold prices climb as traders expect lower interest rates,bullish
+2001-04-27,Gold remains steady ahead of inflation data release,neutral
+2001-04-30,Gold gains after weaker dollar supports precious metals,bullish
+2001-05-01,Gold holds near recent levels during quiet market session,neutral
+2001-05-02,Gold prices climb as traders expect lower interest rates,bullish
+2001-05-03,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-05-04,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-05-06,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-05-07,Gold falls as stronger dollar pressures precious metals,bearish
+2001-05-09,Gold retreats as risk appetite improves across markets,bearish
+2001-05-10,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-05-11,Gold holds near recent levels during quiet market session,neutral
+2001-05-12,Gold holds near recent levels during quiet market session,neutral
+2001-05-14,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-05-15,Gold gains after weaker dollar supports precious metals,bullish
+2001-05-16,Higher Treasury yields weigh on gold prices,bearish
+2001-05-17,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-05-18,Gold slips as investors reduce safe-haven positions,bearish
+2001-05-21,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-05-22,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-05-23,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-05-24,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2001-05-25,Gold market shows limited movement as volume remains moderate,neutral
+2001-05-29,Gold holds near recent levels during quiet market session,neutral
+2001-05-30,Higher Treasury yields weigh on gold prices,bearish
+2001-05-31,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-06-02,Bearish outlook for gold grows after strong economic data,bearish
+2001-06-03,Gold holds near recent levels during quiet market session,neutral
+2001-06-04,Gold retreats as risk appetite improves across markets,bearish
+2001-06-06,Bearish outlook for gold grows after strong economic data,bearish
+2001-06-07,Gold gains after weaker dollar supports precious metals,bullish
+2001-06-08,Gold falls as stronger dollar pressures precious metals,bearish
+2001-06-09,Bullish momentum builds in gold as inflation concerns increase,bullish
+2001-06-11,Bullish momentum builds in gold as inflation concerns increase,bullish
+2001-06-12,Bullish momentum builds in gold as inflation concerns increase,bullish
+2001-06-13,Gold slips as investors reduce safe-haven positions,bearish
+2001-06-14,Gold remains steady ahead of inflation data release,neutral
+2001-06-15,Gold market shows limited movement as volume remains moderate,neutral
+2001-06-18,Bullish momentum builds in gold as inflation concerns increase,bullish
+2001-06-19,Gold holds near recent levels during quiet market session,neutral
+2001-06-20,Bearish outlook for gold grows after strong economic data,bearish
+2001-06-21,Gold retreats as risk appetite improves across markets,bearish
+2001-06-22,Gold falls as stronger dollar pressures precious metals,bearish
+2001-06-25,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-06-26,Bearish outlook for gold grows after strong economic data,bearish
+2001-06-27,Gold market shows limited movement as volume remains moderate,neutral
+2001-06-28,Higher Treasury yields weigh on gold prices,bearish
+2001-06-29,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-07-02,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-07-03,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-07-05,Gold market shows limited movement as volume remains moderate,neutral
+2001-07-06,Gold slips as investors reduce safe-haven positions,bearish
+2001-07-08,Gold market shows limited movement as volume remains moderate,neutral
+2001-07-09,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-07-11,Gold falls as stronger dollar pressures precious metals,bearish
+2001-07-12,Gold falls as stronger dollar pressures precious metals,bearish
+2001-07-13,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-07-16,Gold slips as investors reduce safe-haven positions,bearish
+2001-07-17,Gold slips as investors reduce safe-haven positions,bearish
+2001-07-18,Gold market shows limited movement as volume remains moderate,neutral
+2001-07-19,Gold retreats as risk appetite improves across markets,bearish
+2001-07-20,Gold holds near recent levels during quiet market session,neutral
+2001-07-23,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-07-24,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-07-25,Higher Treasury yields weigh on gold prices,bearish
+2001-07-26,Gold remains steady ahead of inflation data release,neutral
+2001-07-27,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-07-30,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2001-07-31,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-08-01,Bullish momentum builds in gold as inflation concerns increase,bullish
+2001-08-02,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-08-03,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-08-05,Gold retreats as risk appetite improves across markets,bearish
+2001-08-06,Gold remains steady ahead of inflation data release,neutral
+2001-08-08,Gold holds near recent levels during quiet market session,neutral
+2001-08-10,Gold holds near recent levels during quiet market session,neutral
+2001-08-11,Gold prices climb as traders expect lower interest rates,bullish
+2001-08-13,Gold market shows limited movement as volume remains moderate,neutral
+2001-08-14,Precious metals are mixed as traders assess economic signals,neutral
+2001-08-15,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-08-16,Gold prices climb as traders expect lower interest rates,bullish
+2001-08-17,Gold falls as stronger dollar pressures precious metals,bearish
+2001-08-20,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-08-21,Gold retreats as risk appetite improves across markets,bearish
+2001-08-22,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-08-23,Bearish outlook for gold grows after strong economic data,bearish
+2001-08-24,Gold prices climb as traders expect lower interest rates,bullish
+2001-08-27,Gold market shows limited movement as volume remains moderate,neutral
+2001-08-28,Bullish momentum builds in gold as inflation concerns increase,bullish
+2001-08-29,Gold market shows limited movement as volume remains moderate,neutral
+2001-08-30,Gold remains steady ahead of inflation data release,neutral
+2001-08-31,Gold prices climb as traders expect lower interest rates,bullish
+2001-09-01,Analysts warn gold may decline if interest rates remain elevated,bearish
+2001-09-02,Higher Treasury yields weigh on gold prices,bearish
+2001-09-03,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-09-04,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-09-05,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-09-07,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-09-08,Gold remains steady ahead of inflation data release,neutral
+2001-09-10,Gold prices climb as traders expect lower interest rates,bullish
+2001-09-11,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-09-14,Analysts warn gold may decline if interest rates remain elevated,bearish
+2001-09-17,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-09-18,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-09-19,Gold market shows limited movement as volume remains moderate,neutral
+2001-09-20,Gold market shows limited movement as volume remains moderate,neutral
+2001-09-21,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2001-09-24,Bullish momentum builds in gold as inflation concerns increase,bullish
+2001-09-25,Gold gains after weaker dollar supports precious metals,bullish
+2001-09-26,Higher Treasury yields weigh on gold prices,bearish
+2001-09-27,Gold retreats as risk appetite improves across markets,bearish
+2001-09-28,Precious metals are mixed as traders assess economic signals,neutral
+2001-10-01,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-10-04,Gold gains after weaker dollar supports precious metals,bullish
+2001-10-05,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2001-10-07,Higher Treasury yields weigh on gold prices,bearish
+2001-10-08,Gold falls as stronger dollar pressures precious metals,bearish
+2001-10-09,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-10-10,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-10-12,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-10-15,Gold remains steady ahead of inflation data release,neutral
+2001-10-16,Higher Treasury yields weigh on gold prices,bearish
+2001-10-17,Analysts warn gold may decline if interest rates remain elevated,bearish
+2001-10-18,Gold prices climb as traders expect lower interest rates,bullish
+2001-10-19,Gold holds near recent levels during quiet market session,neutral
+2001-10-22,Bearish outlook for gold grows after strong economic data,bearish
+2001-10-23,Bearish outlook for gold grows after strong economic data,bearish
+2001-10-24,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-10-25,Gold falls as stronger dollar pressures precious metals,bearish
+2001-10-26,Analysts warn gold may decline if interest rates remain elevated,bearish
+2001-10-29,Bullish momentum builds in gold as inflation concerns increase,bullish
+2001-10-30,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-10-31,Gold prices climb as traders expect lower interest rates,bullish
+2001-11-01,Gold slips as investors reduce safe-haven positions,bearish
+2001-11-04,Analysts warn gold may decline if interest rates remain elevated,bearish
+2001-11-05,Analysts warn gold may decline if interest rates remain elevated,bearish
+2001-11-06,Bearish outlook for gold grows after strong economic data,bearish
+2001-11-07,Gold strengthens as bond yields decline and investors move into metals,bullish
+2001-11-10,Gold falls as stronger dollar pressures precious metals,bearish
+2001-11-12,Bullish momentum builds in gold as inflation concerns increase,bullish
+2001-11-13,Gold slips as investors reduce safe-haven positions,bearish
+2001-11-14,Gold holds near recent levels during quiet market session,neutral
+2001-11-15,Higher Treasury yields weigh on gold prices,bearish
+2001-11-16,Gold gains after weaker dollar supports precious metals,bullish
+2001-11-19,Gold retreats as risk appetite improves across markets,bearish
+2001-11-20,Higher Treasury yields weigh on gold prices,bearish
+2001-11-21,Gold prices climb as traders expect lower interest rates,bullish
+2001-11-26,Gold retreats as risk appetite improves across markets,bearish
+2001-11-27,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-11-28,Analysts warn gold may decline if interest rates remain elevated,bearish
+2001-11-29,Bearish outlook for gold grows after strong economic data,bearish
+2001-11-30,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-12-01,Precious metals are mixed as traders assess economic signals,neutral
+2001-12-02,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-12-03,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-12-04,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-12-06,Gold gains after weaker dollar supports precious metals,bullish
+2001-12-07,Gold gains after weaker dollar supports precious metals,bullish
+2001-12-10,Gold market shows limited movement as volume remains moderate,neutral
+2001-12-11,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2001-12-12,Precious metals are mixed as traders assess economic signals,neutral
+2001-12-13,Gold gains after weaker dollar supports precious metals,bullish
+2001-12-14,Gold prices climb as traders expect lower interest rates,bullish
+2001-12-17,Gold prices climb as traders expect lower interest rates,bullish
+2001-12-18,Precious metals are mixed as traders assess economic signals,neutral
+2001-12-19,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-12-20,Gold falls as stronger dollar pressures precious metals,bearish
+2001-12-21,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2001-12-26,Gold slips as investors reduce safe-haven positions,bearish
+2001-12-27,Gold rises as investors seek safety amid market uncertainty,bullish
+2001-12-28,Gold prices climb as traders expect lower interest rates,bullish
+2001-12-31,Bullish momentum builds in gold as inflation concerns increase,bullish
+2002-01-02,Gold market shows limited movement as volume remains moderate,neutral
+2002-01-03,Bearish outlook for gold grows after strong economic data,bearish
+2002-01-04,Gold market shows limited movement as volume remains moderate,neutral
+2002-01-05,Gold falls as stronger dollar pressures precious metals,bearish
+2002-01-07,Gold gains after weaker dollar supports precious metals,bullish
+2002-01-08,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2002-01-10,Gold slips as investors reduce safe-haven positions,bearish
+2002-01-11,Bullish momentum builds in gold as inflation concerns increase,bullish
+2002-01-14,Gold remains steady ahead of inflation data release,neutral
+2002-01-15,Gold prices climb as traders expect lower interest rates,bullish
+2002-01-16,Gold gains after weaker dollar supports precious metals,bullish
+2002-01-17,Gold slips as investors reduce safe-haven positions,bearish
+2002-01-18,Gold falls as stronger dollar pressures precious metals,bearish
+2002-01-22,Gold strengthens as bond yields decline and investors move into metals,bullish
+2002-01-23,Analysts warn gold may decline if interest rates remain elevated,bearish
+2002-01-24,Higher Treasury yields weigh on gold prices,bearish
+2002-01-25,Gold holds near recent levels during quiet market session,neutral
+2002-01-28,Gold rises as investors seek safety amid market uncertainty,bullish
+2002-01-29,Analysts warn gold may decline if interest rates remain elevated,bearish
+2002-01-30,Gold remains steady ahead of inflation data release,neutral
+2002-01-31,Precious metals are mixed as traders assess economic signals,neutral
+2002-02-01,Precious metals are mixed as traders assess economic signals,neutral
+2002-02-04,Gold remains steady ahead of inflation data release,neutral
+2002-02-05,Gold holds near recent levels during quiet market session,neutral
+2002-02-07,Gold prices climb as traders expect lower interest rates,bullish
+2002-02-08,Gold slips as investors reduce safe-haven positions,bearish
+2002-02-10,Gold rises as investors seek safety amid market uncertainty,bullish
+2002-02-12,Gold holds near recent levels during quiet market session,neutral
+2002-02-13,Gold prices climb as traders expect lower interest rates,bullish
+2002-02-14,Gold gains after weaker dollar supports precious metals,bullish
+2002-02-15,Gold prices climb as traders expect lower interest rates,bullish
+2002-02-19,Analysts warn gold may decline if interest rates remain elevated,bearish
+2002-02-20,Bearish outlook for gold grows after strong economic data,bearish
+2002-02-21,Bullish momentum builds in gold as inflation concerns increase,bullish
+2002-02-22,Gold remains steady ahead of inflation data release,neutral
+2002-02-25,Gold retreats as risk appetite improves across markets,bearish
+2002-02-26,Analysts warn gold may decline if interest rates remain elevated,bearish
+2002-02-27,Precious metals are mixed as traders assess economic signals,neutral
+2002-02-28,Gold holds near recent levels during quiet market session,neutral
+2002-03-01,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2002-03-04,Precious metals are mixed as traders assess economic signals,neutral
+2002-03-05,Gold strengthens as bond yields decline and investors move into metals,bullish
+2002-03-06,Gold retreats as risk appetite improves across markets,bearish
+2002-03-07,Analysts warn gold may decline if interest rates remain elevated,bearish
+2002-03-09,Gold holds near recent levels during quiet market session,neutral
+2002-03-10,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2002-03-12,Gold market shows limited movement as volume remains moderate,neutral
+2002-03-13,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2002-03-14,Gold gains after weaker dollar supports precious metals,bullish
+2002-03-15,Gold market shows limited movement as volume remains moderate,neutral
+2002-03-18,Precious metals are mixed as traders assess economic signals,neutral
+2002-03-19,Precious metals are mixed as traders assess economic signals,neutral
+2002-03-20,Gold falls as stronger dollar pressures precious metals,bearish
+2002-03-21,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2002-03-22,Higher Treasury yields weigh on gold prices,bearish
+2002-03-25,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2002-03-26,Gold remains steady ahead of inflation data release,neutral
+2002-03-27,Gold strengthens as bond yields decline and investors move into metals,bullish
+2002-03-28,Gold rises as investors seek safety amid market uncertainty,bullish
+2002-04-01,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2002-04-02,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2002-04-03,Gold market shows limited movement as volume remains moderate,neutral
+2002-04-04,Precious metals are mixed as traders assess economic signals,neutral
+2002-04-06,Gold rises as investors seek safety amid market uncertainty,bullish
+2002-04-09,Bearish outlook for gold grows after strong economic data,bearish
+2002-04-10,Gold strengthens as bond yields decline and investors move into metals,bullish
+2002-04-11,Higher Treasury yields weigh on gold prices,bearish
+2002-04-12,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2002-04-15,Precious metals are mixed as traders assess economic signals,neutral
+2002-04-16,Bearish outlook for gold grows after strong economic data,bearish
+2002-04-17,Gold remains steady ahead of inflation data release,neutral
+2002-04-18,Precious metals are mixed as traders assess economic signals,neutral
+2002-04-19,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2002-04-22,Gold prices climb as traders expect lower interest rates,bullish
+2002-04-23,Gold prices climb as traders expect lower interest rates,bullish
+2002-04-24,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2002-04-25,Gold rises as investors seek safety amid market uncertainty,bullish
+2002-04-26,Precious metals are mixed as traders assess economic signals,neutral
+2002-04-29,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2002-04-30,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2002-05-02,Bullish momentum builds in gold as inflation concerns increase,bullish
+2002-05-03,Gold holds near recent levels during quiet market session,neutral
+2002-05-04,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2002-05-06,Bullish momentum builds in gold as inflation concerns increase,bullish
+2002-05-08,Analysts warn gold may decline if interest rates remain elevated,bearish
+2002-05-09,Gold rises as investors seek safety amid market uncertainty,bullish
+2002-05-11,Bullish momentum builds in gold as inflation concerns increase,bullish
+2002-05-12,Gold gains after weaker dollar supports precious metals,bullish
+2002-05-13,Analysts warn gold may decline if interest rates remain elevated,bearish
+2002-05-14,Gold prices climb as traders expect lower interest rates,bullish
+2002-05-15,Precious metals are mixed as traders assess economic signals,neutral
+2002-05-16,Gold holds near recent levels during quiet market session,neutral
+2002-05-17,Gold prices climb as traders expect lower interest rates,bullish
+2002-05-20,Precious metals are mixed as traders assess economic signals,neutral
+2002-05-21,Gold strengthens as bond yields decline and investors move into metals,bullish
+2002-05-22,Analysts warn gold may decline if interest rates remain elevated,bearish
+2002-05-23,Gold remains steady ahead of inflation data release,neutral
+2002-05-24,Gold falls as stronger dollar pressures precious metals,bearish
+2002-05-28,Gold gains after weaker dollar supports precious metals,bullish
+2002-05-29,Gold gains after weaker dollar supports precious metals,bullish
+2002-05-30,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2002-05-31,Bearish outlook for gold grows after strong economic data,bearish
+2002-06-02,Gold holds near recent levels during quiet market session,neutral
+2002-06-03,Analysts warn gold may decline if interest rates remain elevated,bearish
+2002-06-05,Precious metals are mixed as traders assess economic signals,neutral
+2002-06-06,Bearish outlook for gold grows after strong economic data,bearish
+2002-06-08,Investors monitor gold prices while awaiting new macroeconomic data,neutral
+2002-06-09,Precious metals are mixed as traders assess economic signals,neutral
+2002-06-11,Bearish outlook for gold grows after strong economic data,bearish
+2002-06-12,Gold falls as stronger dollar pressures precious metals,bearish
+2002-06-13,Analysts warn gold may decline if interest rates remain elevated,bearish
+2002-06-14,Gold falls as stronger dollar pressures precious metals,bearish
+2002-06-17,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2002-06-18,Gold rises as investors seek safety amid market uncertainty,bullish
+2002-06-19,Gold prices climb as traders expect lower interest rates,bullish
+2002-06-20,Gold falls as stronger dollar pressures precious metals,bearish
+2002-06-21,Gold retreats as risk appetite improves across markets,bearish
+2002-06-24,Gold gains after weaker dollar supports precious metals,bullish
+2002-06-25,Gold rises as investors seek safety amid market uncertainty,bullish
+2002-06-26,Gold strengthens as bond yields decline and investors move into metals,bullish
+2002-06-27,Safe-haven demand lifts gold after geopolitical tensions increase,bullish
+2002-06-28,Bullish momentum builds in gold as inflation concerns increase,bullish
+2002-07-01,Gold slips as investors reduce safe-haven positions,bearish
+2002-07-02,Gold gains after weaker dollar supports precious metals,bullish
+2002-07-03,Gold trades mostly flat as markets wait for Federal Reserve guidance,neutral
+2002-07-05,Gold falls as stronger dollar pressures precious metals,bearish
+2002-07-06,Bullish momentum builds in gold as inflation concerns increase,bullish
+2002-07-08,Higher Treasury yields weigh on gold prices,bearish
+2002-07-10,Investors monitor gold prices while awaiting new macroeconomic data,neutral
